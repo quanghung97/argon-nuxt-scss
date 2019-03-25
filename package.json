@@ -1,0 +1,11 @@
+{
+  "name": "argon-nuxt-scss",
+  "version": "1.0.0",
+  "description": "scss argon for nuxt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Quang Hung",
+  "license": "ISC"
+}
